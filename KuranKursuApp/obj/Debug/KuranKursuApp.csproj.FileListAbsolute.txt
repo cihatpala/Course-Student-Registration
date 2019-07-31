@@ -1,0 +1,14 @@
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\bin\Debug\KuranKursuApp.exe.config
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\bin\Debug\KuranKursuApp.exe
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\bin\Debug\KuranKursuApp.pdb
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.csprojResolveAssemblyReference.cache
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.Form1.resources
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.Properties.Resources.resources
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.csproj.GenerateResource.Cache
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.exe
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.pdb
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.Form2.resources
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.OgrenciKayit.resources
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.HocaKayit.resources
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\obj\Debug\KuranKursuApp.OgrenciGuncelleme.resources
+C:\Users\pala\Desktop\KuranKursuApp\KuranKursuApp\KuranKursuApp\bin\Debug\MySql.Data.dll
